@@ -8,4 +8,5 @@ VALUES
 ('Matt', 'John', 'mj@unemailinventadodetest.com', '2023-01-30 23:52:12.646'),
 ('Harry', 'Patt', 'patt@unemailinventadodetest.com', '2023-01-30 23:52:12.646'),
 ('Mark', 'Lend', 'mlenders@unemailinventadodetest.com', '2023-01-30 23:52:12.646'),
-('Tom', 'Jerr', 'jerryt@unemailinventadodetest.com', '2023-01-30 23:52:12.646');
+('Tom', 'Jerr', 'jerryt@unemailinventadodetest.com', '2023-01-30 23:52:12.646'),
+('Claire', 'Jerr', 'clairgh@unemailinventadodetest.com', '2023-01-30 23:52:12.646');
